@@ -2,7 +2,7 @@ export default function App() {
   return (
     <div style={{
       height: '100%',
-      backgroundColor: 'blue',
+      backgroundColor: '#ffa900',
     }}>
       <div style={{
         display: 'flex',
